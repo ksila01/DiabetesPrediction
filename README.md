@@ -7,7 +7,7 @@
 
 
 
-  ![profile](images/image7.png)
+  ![profile](images/image1.png)
 
 
 
