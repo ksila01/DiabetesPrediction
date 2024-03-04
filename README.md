@@ -7,7 +7,7 @@
 
 
 
-  ![image](images/image1.PNG)
+  ![image](images/image1.png)
 
 
 
