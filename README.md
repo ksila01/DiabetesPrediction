@@ -18,14 +18,14 @@
 
 
 
-  ![Dashboard](images/image6.png)
+  ![Dashboard](images/image6.PNG)
 
 
 
 
 
 
-  ![Dashboard](images/image7.png)
+  ![Dashboard](images/image7.PNG)
 
 
 
