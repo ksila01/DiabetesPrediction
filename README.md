@@ -5,7 +5,9 @@
 
 
 
-![](./images/image1.png)
+
+
+  ![image](images/image1.png)
 
 
 
@@ -16,14 +18,14 @@
 
 
 
- ![System Datashboard](images/image6.png) 
+  ![Dashboard](images/image6.png)
 
 
 
 
 
 
- ![System Datashboard](images/image7.png) 
+  ![Dashboard](images/image7.png)
 
 
 
